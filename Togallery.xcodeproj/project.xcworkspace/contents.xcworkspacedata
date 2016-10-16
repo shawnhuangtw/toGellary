@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:IGpage.xcodeproj">
+      location = "self:/Users/shawnhuang/Desktop/Xcode/IGpage/Togallery.xcodeproj">
    </FileRef>
 </Workspace>

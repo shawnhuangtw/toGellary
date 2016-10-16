@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EFDA61AB1DB1EA640089BC93 /* IGpage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IGpage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFDA61AB1DB1EA640089BC93 /* Togallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Togallery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDA61AE1DB1EA640089BC93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFDA61B01DB1EA640089BC93 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EFDA61B31DB1EA640089BC93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EFDA61B51DB1EA640089BC93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EFDA61B81DB1EA640089BC93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EFDA61BA1DB1EA640089BC93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EFDA61BF1DB1EA640089BC93 /* IGpageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IGpageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFDA61BF1DB1EA640089BC93 /* TogalleryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TogalleryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDA61C31DB1EA640089BC93 /* IGpageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGpageTests.swift; sourceTree = "<group>"; };
 		EFDA61C51DB1EA640089BC93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EFDA61CA1DB1EA640089BC93 /* IGpageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IGpageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFDA61CA1DB1EA640089BC93 /* TogalleryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TogalleryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDA61CE1DB1EA640089BC93 /* IGpageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGpageUITests.swift; sourceTree = "<group>"; };
 		EFDA61D01DB1EA640089BC93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		EFDA61AC1DB1EA640089BC93 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EFDA61AB1DB1EA640089BC93 /* IGpage.app */,
-				EFDA61BF1DB1EA640089BC93 /* IGpageTests.xctest */,
-				EFDA61CA1DB1EA640089BC93 /* IGpageUITests.xctest */,
+				EFDA61AB1DB1EA640089BC93 /* Togallery.app */,
+				EFDA61BF1DB1EA640089BC93 /* TogalleryTests.xctest */,
+				EFDA61CA1DB1EA640089BC93 /* TogalleryUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EFDA61AA1DB1EA640089BC93 /* IGpage */ = {
+		EFDA61AA1DB1EA640089BC93 /* Togallery */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EFDA61D31DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "IGpage" */;
+			buildConfigurationList = EFDA61D31DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "Togallery" */;
 			buildPhases = (
 				EFDA61A71DB1EA640089BC93 /* Sources */,
 				EFDA61A81DB1EA640089BC93 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = IGpage;
+			name = Togallery;
 			productName = IGpage;
-			productReference = EFDA61AB1DB1EA640089BC93 /* IGpage.app */;
+			productReference = EFDA61AB1DB1EA640089BC93 /* Togallery.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EFDA61BE1DB1EA640089BC93 /* IGpageTests */ = {
+		EFDA61BE1DB1EA640089BC93 /* TogalleryTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EFDA61D61DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "IGpageTests" */;
+			buildConfigurationList = EFDA61D61DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "TogalleryTests" */;
 			buildPhases = (
 				EFDA61BB1DB1EA640089BC93 /* Sources */,
 				EFDA61BC1DB1EA640089BC93 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				EFDA61C11DB1EA640089BC93 /* PBXTargetDependency */,
 			);
-			name = IGpageTests;
+			name = TogalleryTests;
 			productName = IGpageTests;
-			productReference = EFDA61BF1DB1EA640089BC93 /* IGpageTests.xctest */;
+			productReference = EFDA61BF1DB1EA640089BC93 /* TogalleryTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EFDA61C91DB1EA640089BC93 /* IGpageUITests */ = {
+		EFDA61C91DB1EA640089BC93 /* TogalleryUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EFDA61D91DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "IGpageUITests" */;
+			buildConfigurationList = EFDA61D91DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "TogalleryUITests" */;
 			buildPhases = (
 				EFDA61C61DB1EA640089BC93 /* Sources */,
 				EFDA61C71DB1EA640089BC93 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				EFDA61CC1DB1EA640089BC93 /* PBXTargetDependency */,
 			);
-			name = IGpageUITests;
+			name = TogalleryUITests;
 			productName = IGpageUITests;
-			productReference = EFDA61CA1DB1EA640089BC93 /* IGpageUITests.xctest */;
+			productReference = EFDA61CA1DB1EA640089BC93 /* TogalleryUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -210,7 +210,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EFDA61A61DB1EA640089BC93 /* Build configuration list for PBXProject "IGpage" */;
+			buildConfigurationList = EFDA61A61DB1EA640089BC93 /* Build configuration list for PBXProject "Togallery" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -223,9 +223,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EFDA61AA1DB1EA640089BC93 /* IGpage */,
-				EFDA61BE1DB1EA640089BC93 /* IGpageTests */,
-				EFDA61C91DB1EA640089BC93 /* IGpageUITests */,
+				EFDA61AA1DB1EA640089BC93 /* Togallery */,
+				EFDA61BE1DB1EA640089BC93 /* TogalleryTests */,
+				EFDA61C91DB1EA640089BC93 /* TogalleryUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -288,12 +288,12 @@
 /* Begin PBXTargetDependency section */
 		EFDA61C11DB1EA640089BC93 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EFDA61AA1DB1EA640089BC93 /* IGpage */;
+			target = EFDA61AA1DB1EA640089BC93 /* Togallery */;
 			targetProxy = EFDA61C01DB1EA640089BC93 /* PBXContainerItemProxy */;
 		};
 		EFDA61CC1DB1EA640089BC93 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EFDA61AA1DB1EA640089BC93 /* IGpage */;
+			target = EFDA61AA1DB1EA640089BC93 /* Togallery */;
 			targetProxy = EFDA61CB1DB1EA640089BC93 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -413,8 +413,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 92Q578Q8CA;
 				INFOPLIST_FILE = IGpage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shawhuang.IGpage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -426,8 +428,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 92Q578Q8CA;
 				INFOPLIST_FILE = IGpage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shawhuang.IGpage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -446,7 +450,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.shawhuang.IGpageTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IGpage.app/IGpage";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Togallery.app/Togallery";
 			};
 			name = Debug;
 		};
@@ -461,7 +465,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.shawhuang.IGpageTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IGpage.app/IGpage";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Togallery.app/Togallery";
 			};
 			name = Release;
 		};
@@ -496,7 +500,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EFDA61A61DB1EA640089BC93 /* Build configuration list for PBXProject "IGpage" */ = {
+		EFDA61A61DB1EA640089BC93 /* Build configuration list for PBXProject "Togallery" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EFDA61D11DB1EA640089BC93 /* Debug */,
@@ -505,29 +509,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EFDA61D31DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "IGpage" */ = {
+		EFDA61D31DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "Togallery" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EFDA61D41DB1EA640089BC93 /* Debug */,
 				EFDA61D51DB1EA640089BC93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		EFDA61D61DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "IGpageTests" */ = {
+		EFDA61D61DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "TogalleryTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EFDA61D71DB1EA640089BC93 /* Debug */,
 				EFDA61D81DB1EA640089BC93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		EFDA61D91DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "IGpageUITests" */ = {
+		EFDA61D91DB1EA640089BC93 /* Build configuration list for PBXNativeTarget "TogalleryUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EFDA61DA1DB1EA640089BC93 /* Debug */,
 				EFDA61DB1DB1EA640089BC93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

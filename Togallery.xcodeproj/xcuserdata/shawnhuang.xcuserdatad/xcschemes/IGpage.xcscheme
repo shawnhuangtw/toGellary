@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EFDA61AA1DB1EA640089BC93"
-               BuildableName = "IGpage.app"
-               BlueprintName = "IGpage"
-               ReferencedContainer = "container:IGpage.xcodeproj">
+               BuildableName = "Togallery.app"
+               BlueprintName = "Togallery"
+               ReferencedContainer = "container:Togallery.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EFDA61BE1DB1EA640089BC93"
-               BuildableName = "IGpageTests.xctest"
-               BlueprintName = "IGpageTests"
-               ReferencedContainer = "container:IGpage.xcodeproj">
+               BuildableName = "TogalleryTests.xctest"
+               BlueprintName = "TogalleryTests"
+               ReferencedContainer = "container:Togallery.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EFDA61C91DB1EA640089BC93"
-               BuildableName = "IGpageUITests.xctest"
-               BlueprintName = "IGpageUITests"
-               ReferencedContainer = "container:IGpage.xcodeproj">
+               BuildableName = "TogalleryUITests.xctest"
+               BlueprintName = "TogalleryUITests"
+               ReferencedContainer = "container:Togallery.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EFDA61AA1DB1EA640089BC93"
-            BuildableName = "IGpage.app"
-            BlueprintName = "IGpage"
-            ReferencedContainer = "container:IGpage.xcodeproj">
+            BuildableName = "Togallery.app"
+            BlueprintName = "Togallery"
+            ReferencedContainer = "container:Togallery.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EFDA61AA1DB1EA640089BC93"
-            BuildableName = "IGpage.app"
-            BlueprintName = "IGpage"
-            ReferencedContainer = "container:IGpage.xcodeproj">
+            BuildableName = "Togallery.app"
+            BlueprintName = "Togallery"
+            ReferencedContainer = "container:Togallery.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EFDA61AA1DB1EA640089BC93"
-            BuildableName = "IGpage.app"
-            BlueprintName = "IGpage"
-            ReferencedContainer = "container:IGpage.xcodeproj">
+            BuildableName = "Togallery.app"
+            BlueprintName = "Togallery"
+            ReferencedContainer = "container:Togallery.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
